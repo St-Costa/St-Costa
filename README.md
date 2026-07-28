@@ -1,3 +1,2 @@
-I’m a mathematician passionate about information management, Personal Knowledge Management (PKM), and optimization. 
-
-I use GitHub to organize and streamline my projects, leveraging these tools to enhance collaboration and improve efficiency in both research and personal workflows. 🧮🔧📊
+Mathematician who automates businesses. 
+I find what's slow, manual, or broken, and I fix it with code.
